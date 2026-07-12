@@ -57,12 +57,6 @@ A bilingual hand-coded personal website from 2007, cataloguing 13+ client-built 
 
 <!-- END INTRO -->
 
-- Delivered full bilingual browsing experience (EN/PT-BR) before internationalization libraries existed
-- Built and shipped 13+ client PHP/MySQL sites listed in the portfolio
-- Hand-coded layout with table-based CSS — no frameworks, no tools, just craft
-
----
-
 This was Leonardo's first footprint on the web — a bilingual personal website hand-built in 2007, before GitHub existed as a portfolio platform and before "personal brand" entered the developer lexicon. He assembled it in raw HTML and CSS because he had already shipped enough client work to need a showcase, and because the most direct way to have a website is to build one.
 
 **Bilingual from day one.** The site runs in both English and Portuguese via parallel directory trees (`en/` and `br/`), each with mirrored page structures and a shared design system. No i18n libraries, no build steps — just clean structural separation that let Brazilian and international clients navigate in their own language. The bilingual requirement was built into the architecture from the start, not bolted on after.
@@ -74,6 +68,14 @@ Most entries credit sole authorship: design, analysis, and implementation by Leo
 **A complete professional history.** The resume section reads like a systems engineer's origin story: Windows NT network administration starting in 1996, Linux (Conectiva official courses), Oracle, SQL Server, ASP, MacOS X server configuration at Quantic Solutions, an Oracle/SSI B2B system for Franke Douat, and four years of independent web development. His MCP certification (Microsoft Certified Professional, Windows NT4) dated to 2000 — when many developers his age were still learning HTML.
 
 **The design itself.** Black background, `#00FF00` green body text, hover states in acid yellow. It was 2007, and the aesthetic was deliberate — terminal palette, maximum contrast, no rounded corners, no gradients. The layout was table-based (the correct cross-browser approach before CSS positioning was reliable), with image-sliced headers and a Microsoft IE shadow filter for depth. A technically correct implementation of the web as it existed at the time.
+
+<!-- KEY FEATURES -->
+
+### Key Features
+
+- **Full bilingual browsing experience (EN/PT-BR)** — parallel directory trees and mirrored page structures let Brazilian and international clients navigate in their own language, years before internationalization libraries existed, widening the reach of a one-person practice.
+- **A live catalogue of 13+ client platforms** — CMS, e-commerce, email marketing, and government records systems shipped for real clients, turned into a self-updating portfolio that did the selling before a first meeting.
+- **Hand-coded, framework-free build** — table-based layout, image-sliced headers, and cross-browser depth effects delivered a technically correct site with no tooling or dependencies, proving direct command of the raw platform.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
